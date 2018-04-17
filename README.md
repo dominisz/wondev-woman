@@ -2,6 +2,10 @@
 
 Repository for CodinGame's Wondev Woman
 
+![Wondev Woman](wondev-woman.jpg)
+
+![Gameplay](grid.jpg)
+
 [Rejestracja na stronie CodinGame](https://www.codingame.com/servlet/urlinvite?u=543181)
 
 [Strona z zadaniem konkursowym](https://www.codingame.com/multiplayer/bot-programming/wondev-woman)
