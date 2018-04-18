@@ -23,3 +23,15 @@ Rozwiązanie w pliku [wood_3_league.dart](wood_3_league.dart)
 W tym przypadku gra toczy się do momentu, gdy zabraknie dozwolonych ruchów i należy zdobyć więcej punktów niż przeciwnik. Strategia z poprzedniej ligii umożliwia czasami wygraną z MaruBossem, ale nie pozwala na przejście do wyższej ligii. Patrząc na rozgrywkę daje się niestety zauważyć, że nieumiejętne wykonywanie ruchów prowadzi do zablokowania pionka. Maksymalna zdobyta pozycja to ok. 170/290.
 
 Rozwiązanie w pliku [wood_2_league.dart](wood_2_league.dart)
+
+## Other languages
+
+Jeżeli chcesz zaproponować oraz zacommitować:
+* dalszą część rozwiązania,
+* inny sposób rozwiązania,
+* rozwiązanie w innym języku programowania,
+
+to skontaktuj się ze mną przez:
+* [Facebook](https://www.facebook.com/profile.php?id=100007494036323)
+* [LinkedIn](https://www.linkedin.com/in/dominisz/)
+* [CodinGame](https://www.codingame.com/profile/5dfcc3023c4b7b6e7f129c9b9b9bf9ff181345)
